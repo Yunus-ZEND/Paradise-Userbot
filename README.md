@@ -29,7 +29,7 @@ String_Session [Tekan](https://replit.com/@ferikunn/String-Sesson-Saya)
    <a href="https://t.me/masukajaudhh"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
 
 
-## <p align="center">DEPLOY Linux-Userbot</p>
+## <p align="center">DEPLOY Paradise-Userbot</p>
 
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ferikunn/Linux-Userbot/tree/Linux-Userbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-magenta?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
